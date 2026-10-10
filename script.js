@@ -142,7 +142,7 @@ Cảm ơn vì đã dành chút thời gian để đọc những dòng này.
 
 Ngủ ngon nhé...
 
-Thảo 💖
+Nhung 💖
 
 `;
 
@@ -298,5 +298,5 @@ setInterval(()=>{
 // GREETING
 // ===============================
 
-console.log("🌙 Chúc Thảo ngủ ngon ❤️");
+console.log("🌙 Chúc Nhung ngủ ngon ❤️");
 
